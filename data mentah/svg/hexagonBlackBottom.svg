@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1280px"
+	 height="237px" viewBox="0 0 1280 237" enable-background="new 0 0 1280 237" xml:space="preserve">
+<pattern  width="14.833" height="14.833" patternUnits="userSpaceOnUse" id="New_Pattern" viewBox="15.333 -30.167 14.833 14.833" overflow="visible">
+	<g>
+		<polygon fill="none" points="15.333,-30.167 30.166,-30.167 30.166,-15.333 15.333,-15.333 		"/>
+		<polygon fill="none" stroke="#A8D596" stroke-miterlimit="10" points="44.999,-0.5 30.166,-0.5 30.166,-15.333 44.999,-15.333 		
+			"/>
+		<polygon fill="none" stroke="#A8D596" stroke-miterlimit="10" points="30.166,-0.5 15.333,-0.5 15.333,-15.333 30.166,-15.333 		
+			"/>
+		<polygon fill="none" stroke="#A8D596" stroke-miterlimit="10" points="15.333,-0.5 0.5,-0.5 0.5,-15.333 15.333,-15.333 		"/>
+		<polygon fill="none" stroke="#A8D596" stroke-miterlimit="10" points="44.999,-15.333 30.166,-15.333 30.166,-30.167 
+			44.999,-30.167 		"/>
+		<polygon fill="none" stroke="#A8D596" stroke-miterlimit="10" points="30.166,-15.333 15.333,-15.333 15.333,-30.167 
+			30.166,-30.167 		"/>
+		<polygon fill="none" stroke="#A8D596" stroke-miterlimit="10" points="15.333,-15.333 0.5,-15.333 0.5,-30.167 15.333,-30.167 		
+			"/>
+		<polygon fill="none" stroke="#A8D596" stroke-miterlimit="10" points="44.999,-30.167 30.166,-30.167 30.166,-45 44.999,-45 		"/>
+		<polygon fill="none" stroke="#A8D596" stroke-miterlimit="10" points="30.166,-30.167 15.333,-30.167 15.333,-45 30.166,-45 		"/>
+		<polygon fill="none" stroke="#A8D596" stroke-miterlimit="10" points="15.333,-30.167 0.5,-30.167 0.5,-45 15.333,-45 		"/>
+	</g>
+</pattern>
+<g id="Layer_1_copy" display="none">
+	<polygon display="inline" fill="#161616" stroke="url(#New_Pattern)" stroke-miterlimit="10" points="0.506,2.235 46.152,79.5 
+		138,79.5 183.735,159.5 275,159.5 320.93,80.5 412,80.5 458.124,158.782 549.611,159.505 595.318,237.5 687,237.5 732.512,159.5 
+		824,159.5 869.807,80.5 961,80.5 1006.152,159.5 1098,159.5 1143.631,79.382 1235.221,78.865 1280.927,0.502 1280.465,237.5 
+		1,237.5 	"/>
+</g>
+<g id="Layer_1">
+	<polyline fill="#161616" stroke="url(#New_Pattern)" stroke-miterlimit="10" points="0.506,2.235 46.152,79.5 138,79.5 
+		183.735,159.5 275,159.5 320.93,80.5 412,80.5 458.124,158.782 549.611,159.505 595.318,237.5 687,237.5 732.512,159.5 824,159.5 
+		869.807,80.5 961,80.5 1006.152,159.5 1098,159.5 1143.631,79.382 1235.221,78.865 1280.927,0.502 	"/>
+</g>
+</svg>
