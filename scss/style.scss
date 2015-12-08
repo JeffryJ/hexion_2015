@@ -1,0 +1,40 @@
+/* Scss Document */
+
+body
+{
+	padding:0;
+	margin:0;
+	width : 100%;
+	height : 100%;
+}
+
+#landingPage
+{
+	position:absolute;
+	left:0;
+	top:0;
+	width:100%;
+	height:100%;
+	background:#ccc;
+}
+
+.page
+{
+	position:relative;
+	width:100%;
+	height:100vh;
+	background:#fff;
+	box-sizing:border-box;
+	float:left;
+	z-index : 5;
+}
+
+.one
+{
+	background:#000;
+}
+
+.two
+{
+	background:#ccc;
+}
